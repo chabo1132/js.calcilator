@@ -13,6 +13,9 @@ input {
   width: 165px;
   height: 70px;
 }
+button {
+  font-size: 30px;
+}
 
 body {
   margin-top: 70px;
